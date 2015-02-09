@@ -1,0 +1,11 @@
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\UnityEditor.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\UnityEngine.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\Mono.Cecil.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\nunit.framework.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\Unity.DataContract.dll
+E:\Develop\Gamedev\F.E.R.R.O\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Develop\Gamedev\F.E.R.R.O\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Develop\Gamedev\F.E.R.R.O\obj\Debug\Assembly-CSharp.dll
+E:\Develop\Gamedev\F.E.R.R.O\obj\Debug\Assembly-CSharp.pdb
